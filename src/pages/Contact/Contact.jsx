@@ -28,7 +28,7 @@ const FuzzyOverlay = () => {
       // https://www.hover.dev/black-noise.png
       // https://www.hover.dev/noise.png
       style={{
-        backgroundImage: 'url("../../src/assets/noise.png")',
+        backgroundImage: 'url("/assets/noise.png")',
         // backgroundImage: 'url("/noise.png")',
       }}
       className="pointer-events-none absolute -inset-[100%] opacity-[15%]"
