@@ -2,25 +2,25 @@
     "projects": [
       {
         "id": 1,
-        "mainImage": "/src/assets/myProjects/webStore/webStore.webp",
+        "mainImage": "../../assets/myProjects/webStore/webStore.webp",
         "additionalImages": [
-          "/src/assets/myProjects/webStore/webStore.webp",
-          "/src/assets/myProjects/webStore/webStoreMobile.png",
-          "/src/assets/myProjects/webStore/webStoreTablet.png"
+          "../../assets/myProjects/webStore/webStore.webp",
+          "../../assets/myProjects/webStore/webStoreMobile.png",
+          "../../assets/myProjects/webStore/webStoreTablet.png"
         ],
         "title": "webStore",
         "skills": [
           {
             "name": "TailwindCss",
-            "icon": "/src/assets/skills/tailwind.png"
+            "icon": "../../assets/skills/tailwind.png"
           },
           {
             "name": "React",
-            "icon": "/src/assets/skills/react.png"
+            "icon": "../../assets/skills/react.png"
           },
           {
             "name": "Vite",
-            "icon": "/src/assets/skills/Vitejs-logo.svg"
+            "icon": "../../assets/skills/Vitejs-logo.svg"
           }
         ],
         "description": "Sitio web con catalogo de venta de Components y Layers",
@@ -32,25 +32,25 @@
 
       {
         "id": 2,
-        "mainImage": "/src/assets/myProjects/coffeStore/desktop.webp",
+        "mainImage": "../../assets/myProjects/coffeStore/desktop.webp",
         "additionalImages": [
-          "/src/assets/myProjects/coffeStore/desktop.webp",
-          "/src/assets/myProjects/coffeStore/mobile.webp",
-          "/src/assets/myProjects/coffeStore/tablet.webp"
+          "../../assets/myProjects/coffeStore/desktop.webp",
+          "../../assets/myProjects/coffeStore/mobile.webp",
+          "../../assets/myProjects/coffeStore/tablet.webp"
         ],
         "title": "Cafe Klang",
         "skills": [
           {
             "name": "TailwindCss",
-            "icon": "/src/assets/skills/tailwind.png"
+            "icon": "../../assets/skills/tailwind.png"
           },
           {
             "name": "React",
-            "icon": "/src/assets/skills/react.png"
+            "icon": "../../assets/skills/react.png"
           },
           {
             "name": "Vite",
-            "icon": "/src/assets/skills/Vitejs-logo.svg"
+            "icon": "../../assets/skills/Vitejs-logo.svg"
           }
         ],
         "description": "Sitio web de cafetería. Se incluyen menú, testimonios y contacto.",
@@ -61,25 +61,25 @@
       }, 
       {
         "id": 3,
-        "mainImage": "/src/assets/myProjects/webPhotography/desktop.webp",
+        "mainImage": "../../assets/myProjects/webPhotography/desktop.webp",
         "additionalImages": [
-          "/src/assets/myProjects/webPhotography/desktop.webp",
-          "/src/assets/myProjects/webPhotography/mobile.webp",
-          "/src/assets/myProjects/webPhotography/tablet.webp"
+          "../../assets/myProjects/webPhotography/desktop.webp",
+          "../../assets/myProjects/webPhotography/mobile.webp",
+          "../../assets/myProjects/webPhotography/tablet.webp"
         ],
         "title": "Photography",
         "skills": [
           {
             "name": "TailwindCss",
-            "icon": "/src/assets/skills/tailwind.png"
+            "icon": "../../assets/skills/tailwind.png"
           },
           {
             "name": "React",
-            "icon": "/src/assets/skills/react.png"
+            "icon": "../../assets/skills/react.png"
           },
           {
             "name": "Vite",
-            "icon": "/src/assets/skills/Vitejs-logo.svg"
+            "icon": "../../assets/skills/Vitejs-logo.svg"
           }
         ],
         "description": "Sitio web con catalogo de venta de Components y Layers",

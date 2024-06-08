@@ -24,8 +24,8 @@ export default {
         'dynamic-btn': 'clamp(1.25rem, 1.0417rem + 1.0417vw, 1.875rem)',
       },
       backgroundImage: {
-        'hero-primary': "url(../../src/assets/punto.svg)",
-        'hero-secondary': "url(../../src/assets/figuras.svg)",
+        'hero-primary': "url()./src/assets/punto.svg)",
+        'hero-secondary': "url(./src/assets/figuras.svg)",
         'hero-tertiary': "linear-gradient(to top, #30cfd0 0%, #330867 100%)",
       },
       fontFamily: {
