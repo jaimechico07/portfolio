@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Fugaz+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Noto+Sans:ital@0;1&family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cortado {
+    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+}
+
+html, body {
+    margin: 0;
+    scroll-behavior: smooth; /* Smooth scrolling */
+
+    overflow-y: scroll; /* Enable vertical scrolling */
+}
+section {
+    scroll-snap-align: start; /* Align sections to the start */
+}
+

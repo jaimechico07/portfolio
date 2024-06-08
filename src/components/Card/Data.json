@@ -1,0 +1,92 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "mainImage": "/src/assets/myProjects/webStore/webStore.webp",
+        "additionalImages": [
+          "/src/assets/myProjects/webStore/webStore.webp",
+          "/src/assets/myProjects/webStore/webStoreMobile.png",
+          "/src/assets/myProjects/webStore/webStoreTablet.png"
+        ],
+        "title": "webStore",
+        "skills": [
+          {
+            "name": "TailwindCss",
+            "icon": "/src/assets/skills/tailwind.png"
+          },
+          {
+            "name": "React",
+            "icon": "/src/assets/skills/react.png"
+          },
+          {
+            "name": "Vite",
+            "icon": "/src/assets/skills/Vitejs-logo.svg"
+          }
+        ],
+        "description": "Sitio web con catalogo de venta de Components y Layers",
+        "links": {
+          "website": "https://storefigma.netlify.app/",
+          "github": "http://github.com/example"
+        }
+      },
+
+      {
+        "id": 2,
+        "mainImage": "/src/assets/myProjects/coffeStore/desktop.webp",
+        "additionalImages": [
+          "/src/assets/myProjects/coffeStore/desktop.webp",
+          "/src/assets/myProjects/coffeStore/mobile.webp",
+          "/src/assets/myProjects/coffeStore/tablet.webp"
+        ],
+        "title": "Cafe Klang",
+        "skills": [
+          {
+            "name": "TailwindCss",
+            "icon": "/src/assets/skills/tailwind.png"
+          },
+          {
+            "name": "React",
+            "icon": "/src/assets/skills/react.png"
+          },
+          {
+            "name": "Vite",
+            "icon": "/src/assets/skills/Vitejs-logo.svg"
+          }
+        ],
+        "description": "Sitio web de cafetería. Se incluyen menú, testimonios y contacto.",
+        "links": {
+          "website": "https://coffeewebstore.netlify.app/",
+          "github": "http://github.com/example"
+        }
+      }, 
+      {
+        "id": 3,
+        "mainImage": "/src/assets/myProjects/webPhotography/desktop.webp",
+        "additionalImages": [
+          "/src/assets/myProjects/webPhotography/desktop.webp",
+          "/src/assets/myProjects/webPhotography/mobile.webp",
+          "/src/assets/myProjects/webPhotography/tablet.webp"
+        ],
+        "title": "Photography",
+        "skills": [
+          {
+            "name": "TailwindCss",
+            "icon": "/src/assets/skills/tailwind.png"
+          },
+          {
+            "name": "React",
+            "icon": "/src/assets/skills/react.png"
+          },
+          {
+            "name": "Vite",
+            "icon": "/src/assets/skills/Vitejs-logo.svg"
+          }
+        ],
+        "description": "Sitio web con catalogo de venta de Components y Layers",
+        "links": {
+          "website": "https://zphotography.netlify.app/",
+          "github": "http://github.com/example"
+        }
+      }
+    ]
+  }
