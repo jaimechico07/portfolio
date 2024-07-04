@@ -87,6 +87,39 @@
           "website": "https://zphotography.netlify.app/",
           "github": "https://github.com/jaimechico07/webPhotography"
         }
+      },
+      {
+        "id": 4,
+        "mainImage": "/assets/myProjects/rosaVergara/desktop.webp",
+        "additionalImages": [
+          "/assets/myProjects/rosaVergara/desktop.webp",
+          "/assets/myProjects/rosaVergara/mobile.webp",
+          "/assets/myProjects/rosaVergara/tablet.webp"
+        ],
+        "title": "Rosa Vergara",
+        "skills": [
+          {
+            "name": "TailwindCss",
+            "icon": "/assets/skills/tailwind.png"
+          },
+          {
+            "name": "SaSS",
+            "icon": "/assets/skills/sass.png"
+          },
+          {
+            "name": "JS",
+            "icon": "/assets/skills/javascript.png"
+          },
+          {
+            "name": "PHP",
+            "icon": "/assets/skills/php.png"
+          }
+        ],
+        "description": "Sitio web Make Up Artist con servicio y escuela de Maquillaje",
+        "links": {
+          "website": "https://rosa-vergara.zeabur.app/",
+          "github": "https://github.com/jaimechico07/RosaVergaraWeb"
+        }
       }
     ]
   }
