@@ -120,6 +120,35 @@
           "website": "https://rosa-vergara.zeabur.app/",
           "github": "https://github.com/jaimechico07/RosaVergaraWeb"
         }
+      },
+      {
+        "id": 5,
+        "mainImage": "/assets/myProjects/myKitchen/desktop.webp",
+        "additionalImages": [
+          "/assets/myProjects/myKitchen/desktop.webp",
+          "/assets/myProjects/myKitchen/mobile.webp",
+          "/assets/myProjects/myKitchen/tablet.webp"
+        ],
+        "title": "MyKitchen",
+        "skills": [
+          {
+            "name": "TailwindCss",
+            "icon": "/assets/skills/tailwind.png"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "/assets/skills/typescript.png"
+          },
+          {
+            "name": "Angular",
+            "icon": "/assets/skills/angular.png"
+          }
+        ],
+        "description": "Sitio Web de aprendizaje de cocina con spotify Api, themealdb Api y firebase(auth)",
+        "links": {
+          "website": "https://cookinglearn.netlify.app/",
+          "github": "https://github.com/jaimechico07/project-w2"
+        }
       }
     ]
   }

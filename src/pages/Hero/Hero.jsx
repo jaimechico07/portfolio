@@ -9,7 +9,7 @@ const Hero = () => {
         <p className="text-black text-3xl text-center  font-extrabold font-comfortaa" data-aos="fade-right" >Hola, mi nombre es</p>
         <h1 className="text-[#fc3863] text-dynamic-h1 leading-none text-center font-extrabold font-spaceGrotesk " data-aos="fade-left">&lt;Jaime Chico Loayza&gt;</h1>
         <h2 className="text-black text-dynamic-h2 font-comfortaa font-extrabold " data-aos="fade-right">
-          {'Front-End Developer'.split('').map((child, idx) => (
+          {'Front-End y Back-End Developer'.split('').map((child, idx) => (
             <span className={styles.hoverText} key={idx}>
               {child}
             </span>
